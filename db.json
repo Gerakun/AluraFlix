@@ -1,0 +1,156 @@
+{
+  "videos": [
+    {
+      "id": "1",
+      "categoria": "Comedia",
+      "imagen": "https://i.vimeocdn.com/video/869033992-80cf194515ee45cd6de8c75426c699e1777985fd9400d8587635421b8e6549cf-d_390x220",
+      "link": "https://vimeo.com/400584129",
+      "titulo": "Covid no more!",
+      "codigo": "0101001",
+      "descripcion": "Ejemplo..."
+    },
+    {
+      "id": "2",
+      "categoria": "Comedia",
+      "imagen": "https://i.vimeocdn.com/video/884905490-7cd026655960631b684315658ccba2e040e2a4e7df7e0ee1f97c10e501d257d3-d_390x220",
+      "link": "https://vimeo.com/392605479",
+      "titulo": "Face to Face Time",
+      "codigo": "0101001",
+      "descripcion": "Ejemplo..."
+    },
+    {
+      "id": "4",
+      "categoria": "Comedia",
+      "imagen": "https://i.vimeocdn.com/video/458295967-83ca23b274d89b624dbb455867b9789e570d4af59b020e78e5015931ff65dfd9-d_390x220",
+      "link": "https://vimeo.com/82045045",
+      "titulo": "Mac King - Rope Trick",
+      "codigo": "0101001",
+      "descripcion": "Ejemplo..."
+    },
+    {
+      "id": "5",
+      "categoria": "Comedia",
+      "imagen": "https://i.vimeocdn.com/video/492097101-df4f365ddc6876184e1dcbe291d940804cf42bfec918516bca3359ac6086899d-d_390x219",
+      "link": "https://vimeo.com/ondemand/22265?autoplay=1",
+      "titulo": "Gary Gulman: In This Economy",
+      "codigo": "0101001",
+      "descripcion": "Ejemplo..."
+    },
+    {
+      "id": "6",
+      "categoria": "Animación",
+      "imagen": "https://i.vimeocdn.com/video/691821015-0d3af85a01104678570c829e4466fb1e5ca97777049a3a27219977f0f7b4856b-d_390x220",
+      "link": "https://vimeo.com/262524875",
+      "titulo": "あたしだけをみて / Look at Me Only",
+      "codigo": "0101001",
+      "descripcion": "Ejemplo..."
+    },
+    {
+      "id": "7",
+      "categoria": "Animación",
+      "imagen": "https://i.vimeocdn.com/video/701723021-fe5464d8712e9f4ed7949d5f1cfe3d7dc0961043d62b81f7a112cc227b55a2f2-d_390x220",
+      "link": "https://vimeo.com/270623784",
+      "titulo": "Darrel short film",
+      "codigo": "0101001",
+      "descripcion": "Ejemplo..."
+    },
+    {
+      "id": "8",
+      "categoria": "Animación",
+      "imagen": "https://i.vimeocdn.com/video/1628045919-122789d45fd4168a85df649e105260dcfdf5d56982abb86588260ae2672da3ce-d_390x220",
+      "link": "https://vimeo.com/806256911",
+      "titulo": "Every Human Life",
+      "codigo": "0101001",
+      "descripcion": "Ejemplo..."
+    },
+    {
+      "id": "9",
+      "categoria": "Animación",
+      "imagen": "https://i.vimeocdn.com/video/705576046-ccc369162baca035ed954a9239ebf28dd85ddbb94535983cc48e5d569f338b6e-d_390x220",
+      "link": "https://vimeo.com/267538739",
+      "titulo": "Euphoria/Alegría",
+      "codigo": "0101001",
+      "descripcion": "Ejemplo..."
+    },
+    {
+      "id": "10",
+      "categoria": "Música",
+      "imagen": "https://i.vimeocdn.com/video/802825272-c0a7e906f66f5cc5f38bc11d5b4171c21c7677e6a19ebb76c08952360cf107cc-d_390x220",
+      "link": "https://vimeo.com/351275828",
+      "titulo": "Polly Pocket - Daniela Andrade",
+      "codigo": "0101001",
+      "descripcion": "Ejemplo..."
+    },
+    {
+      "id": "11",
+      "categoria": "Música",
+      "imagen": "https://i.vimeocdn.com/video/559116238-8262b7448614e8342b4c7293e7be232c1a77b0755c5704ef4dca146fed6016f7-d_390x220",
+      "link": "https://vimeo.com/157743578",
+      "titulo": "Wintergatan - Marble Machine",
+      "codigo": "0101001",
+      "descripcion": "Ejemplo..."
+    },
+    {
+      "id": "12",
+      "categoria": "Música",
+      "imagen": "https://i.vimeocdn.com/video/569106417-84d539a0a7c7a983244a7deee4675736315fd08ddd4e73f99ed7d733c6087a69-d_390x220",
+      "link": "https://vimeo.com/165162017",
+      "titulo": "Run The Jewels “Love Again” ft Gangsta Boo",
+      "codigo": "0101001",
+      "descripcion": "Ejemplo..."
+    },
+    {
+      "id": "13",
+      "categoria": "Experimental",
+      "imagen": "https://i.vimeocdn.com/video/1245615464-b162f8f873e2f23857475eb7cc59af4a68ea93d46c455bff36a2018f5a51f4de-d_390x220",
+      "link": "https://vimeo.com/608932905",
+      "titulo": "CONVERGENCE STATION",
+      "codigo": "0101001",
+      "descripcion": "Ejemplo..."
+    },
+    {
+      "id": "14",
+      "categoria": "Experimental",
+      "imagen": "https://i.vimeocdn.com/video/687049182-b8796cbc5e7731087ef591e0e6e5e4911a1a7b33812072a62e52982dad852d1a-d_390x220",
+      "link": "https://vimeo.com/258776630",
+      "titulo": "Hype Cycle: Smart Matter",
+      "codigo": "0101001",
+      "descripcion": "Ejemplo..."
+    },
+    {
+      "id": "15",
+      "categoria": "Experimental",
+      "imagen": "https://i.vimeocdn.com/video/1430077789-398f32bbf5de586eb7325d2e44215f75aad64154121b379aaf2d4e06a8c90b46-d_390x220",
+      "link": "https://vimeo.com/708803521",
+      "titulo": "Max Cooper - Unspoken Words - Symphony in Acid (official video)",
+      "codigo": "0101001",
+      "descripcion": "Ejemplo..."
+    }
+  ],
+  "categorias": [
+    {
+      "id": "01",
+      "titulo": "Animación",
+      "colorPrimario": "#2C89FF",
+      "descripcion": "En esta sección se muestran videos de..."
+    },
+    {
+      "id": "02",
+      "titulo": "Música",
+      "colorPrimario": "#A6CDFF",
+      "descripcion": "En esta sección se muestran videos de..."
+    },
+    {
+      "id": "03",
+      "titulo": "Comedia",
+      "colorPrimario": "#2C89FF",
+      "descripcion": "En esta sección se muestran videos de..."
+    },
+    {
+      "id": "04",
+      "titulo": "Experimental",
+      "colorPrimario": "#A6CDFF",
+      "descripcion": "En esta sección se muestran videos de..."
+    }
+  ]
+}
