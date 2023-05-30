@@ -13,7 +13,7 @@ export const ApiProvider = ({ children }) => {
     useEffect(() => {
     const obtenerVideos = async () =>{
 
-        const url = "http://localhost:5000/videos"
+        const url = "https://my-json-server.typicode.com/Gerakun/AluraFlix/videos"
         const result = await axios.get(url);
 
         setVideos(result.data)
@@ -27,7 +27,7 @@ export const ApiProvider = ({ children }) => {
     useEffect(() => {
     const obtenerCategorias = async () =>{
 
-     const url = "http://localhost:5000/categorias"
+     const url = "https://my-json-server.typicode.com/Gerakun/AluraFlix/categorias"
      const result = await axios.get(url);
 
         setCategorias(result.data)
@@ -58,7 +58,7 @@ export const ApiProvider = ({ children }) => {
 
     //Eliminar categoria
     const removerCategoria = async (id) => {
-        return fetch(`http://localhost:5000/categorias/${id}`, {
+        return fetch(`https://my-json-server.typicode.com/Gerakun/AluraFlix/categorias/${id}`, {
           method: 'DELETE'
         }).then(respusta => {
             if(!respusta.ok) {
